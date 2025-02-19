@@ -1,0 +1,96 @@
+continuous_hh_2
+Centroids
+[[ 1.  1.  1.  1.  1.  1.  0.  0.  0. -1.  0.  0.  0. -1.  0.  0. -1.  0.
+  -1.  0.  1.]
+ [ 0. -1. -1. -1.  0. -1. -1.  0. -1.  0. -1.  1.  1.  1.  1. -1.  1.  0.
+   1.  1. -1.]]
+Converted to Borda Pessimistic
+[6, 0, 0, 0, 0, 5, 0]
+[0, 0, 6, 2, 5, 0, 3]
+Fraction Equidistant
+[0. 0.]
+Silhouette Score
+0.3678435419393745
+
+continuous_bordaP_2
+Centroids
+[[5. 0. 0. 0. 0. 5. 0.]
+ [0. 0. 5. 2. 5. 0. 4.]]
+Fraction Equidistant
+[0.00349094 0.00349094]
+Silhouette Score
+0.4022093213948889
+
+continuous_bordaA_2
+Centroids
+[[5.  2.  2.  2.5 2.  5.  2. ]
+ [1.5 2.  6.  2.  5.  1.5 3. ]]
+Fraction Equidistant
+[0. 0.]
+Silhouette Score
+0.41950686018033584
+
+continuous_rest_hh_2
+Centroids
+[[ 1.  1.  1.  1.  1.  1.  1. -1.  1. -1.  1. -1.  1. -1. -1.  1. -1.  1.
+  -1. -1.  1.]
+ [-1. -1. -1. -1. -1. -1. -1. -1. -1.  1. -1.  1.  1.  1.  1. -1.  1. -1.
+   1.  1. -1.]]
+Converted to Borda Pessimistic
+[6, 3, 1, 4, 0, 5, 2]
+[0, 2, 6, 3, 5, 1, 4]
+Fraction Equidistant
+[0.01162174 0.01162174]
+Silhouette Score
+0.3737182176012703
+
+continuous_rest_bordaP_2
+Centroids
+[[6. 0. 0. 0. 0. 5. 0.]
+ [0. 0. 6. 3. 5. 0. 4.]]
+Fraction Equidistant
+[0. 0.]
+Silhouette Score
+0.4024611329696099
+
+continuous_rest_bordaA_2
+Centroids
+[[6.  2.5 2.5 2.5 2.5 2.5 2.5]
+ [2.5 2.5 6.  2.5 2.5 2.5 2.5]]
+Fraction Equidistant
+[0.08281043 0.08281043]
+Silhouette Score
+0.41656121686560393
+
+discrete_hh_2
+Centroids
+[[ 1.  1.  1.  1.  1.  1.  0.  0.  0. -1.  0.  0.  0. -1.  0.  0. -1.  0.
+  -1.  0.  1.]
+ [ 0. -1. -1. -1.  0.  0. -1. -1. -1.  0.  0.  1.  1.  1.  1. -1.  1.  1.
+   1.  1.  0.]]
+Converted to Borda Pessimistic
+[6, 0, 0, 0, 0, 5, 0]
+[0, 0, 6, 4, 5, 0, 0]
+Fraction Equidistant
+[0.0048608 0.0048608]
+Silhouette Score
+0.36641216675437344
+
+discrete_bordaP_2
+Centroids
+[[6 0 0 0 0 5 0]
+ [0 0 6 3 5 0 4]]
+Fraction Equidistant
+[0. 0.]
+Silhouette Score
+0.4024611329696099
+
+discrete_bordaA_2
+Centroids
+[[5.  1.  1.  1.  1.  4.  1. ]
+ [0.5 0.5 5.  0.5 4.  0.5 3. ]]
+Fraction Equidistant
+[0.02580645 0.02580645]
+Silhouette Score
+0.4246384455569404
+
